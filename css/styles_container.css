@@ -1,0 +1,202 @@
+h1{
+	font-family: "Quicksand";
+	text-align: center;
+	color: #183c64;
+}
+
+h2{
+	font-family: "Quicksand";
+	text-align: center;
+	color: #183c64;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+table a{
+	text-decoration: none;
+}
+
+#select{
+  padding-left: 15px;
+  width: 320px;
+  height: 35px;
+  border-radius: 1em;
+  background-color: whitesmoke;
+  font-size: 14px;
+  font-family: Quicksand;
+}
+
+#input{
+  padding-left: 15px;
+  width: 300px;
+  height: 35px;
+  border-radius: 1em;
+  background-color: whitesmoke;
+  font-size: 14px;
+  font-family: Quicksand;
+}
+
+#labeladd{
+  margin-left: 60px;
+  font-size: 18px;
+  font-family: Quicksand;
+}
+
+#textbox{
+   margin-left: 60px;
+}
+
+#text{
+  font-size: 18px;
+  font-family: Quicksand;
+}
+
+#inputcash{
+  padding-left: 15px;
+  margin-top: -30px;
+  margin-left: 60px;
+  width: 200px;
+  height: 35px;
+  border-radius: 1em;
+  background-color: whitesmoke;
+  font-size: 14px;
+  font-family: Quicksand;
+  position: absolute;
+}
+
+.buy1{
+  border-right: 1px solid black; 
+  margin-top: -20px; 
+  padding-top: 20px;
+  width: 450px;
+  min-height: 540px;
+  float: left;
+  position: absolute;
+}
+
+.buy2{
+  margin-left: 450px;
+  margin-top: -20px; 
+  padding-top: 20px;
+  width: 448px;
+  min-height: 540px;
+  float: right;
+  position: absolute;
+}
+
+.buy3{
+  margin-left: 55px;
+  margin-top: 20px;
+  width: 100px;
+  height: 35px;
+  font-size: 15px; 
+  font-family: Quicksand; 
+  background-color: #183c64; 
+  color: white;
+  border-radius: 1em;
+}
+
+.buy4 {
+  position: absolute; 
+  bottom: -28pt;
+  right: 180pt; 
+  width: 100px;
+  height: 35px;
+  font-size: 15px; 
+  font-family: Quicksand; 
+  background-color: #183c64; 
+  color: white;
+  border-radius: 1em;
+  margin-bottom: 50px;
+}
+
+.buy5 {
+  position: absolute; 
+  bottom: -28pt;
+  right: 90pt; 
+  width: 100px;
+  height: 35px;
+  font-size: 15px; 
+  font-family: Quicksand; 
+  background-color: #183c64; 
+  color: white;
+  border-radius: 1em;
+  margin-bottom: 50px;
+}
+
+.update{
+  position: absolute; 
+  bottom: -10pt;
+  right: 358pt; 
+  width: 400px;
+  height: 40pt;
+  font-size: 20px; 
+  font-family: Quicksand; 
+  background-color: #183c64; 
+  color: white;
+  border-radius: 1em;
+}
+
+.delete{
+  margin-left: 465px;
+  padding-left: 15px;
+  width: 400px;
+  height: 50px;
+  border-radius: 1em;
+  background-color: whitesmoke;
+  font-size: 18px;
+  font-family: Quicksand;
+}
+
+.confirm {
+  position: absolute; 
+  bottom: -65pt;
+  right: 300pt; 
+  width: 100px;
+  height: 35px;
+  font-size: 15px; 
+  font-family: Quicksand; 
+  background-color: #183c64; 
+  color: white;
+  border-radius: 1em;
+  margin-bottom: 50px;
+}
+
+.buy {
+  position: absolute; 
+  bottom: -28pt;
+  right: 135pt; 
+  width: 100px;
+  height: 35px;
+  font-size: 15px; 
+  font-family: Quicksand; 
+  background-color: #183c64; 
+  color: white;
+  border-radius: 1em;
+  margin-bottom: 50px;
+}
+
+
+.orders {
+  position: absolute; 
+  bottom: -300pt;
+  right: 360pt; 
+  width: 430px;
+  height: 40pt;
+  font-size: 20px; 
+  font-family: Quicksand; 
+  background-color: #183c64; 
+  color: white;
+  border-radius: 1em;
+  margin-bottom: 50px;
+}
+
+

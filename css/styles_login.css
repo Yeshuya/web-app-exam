@@ -1,0 +1,81 @@
+.login {
+	width: 500px;
+	height: 500px;
+	border: 3px solid #183c64;
+	margin-left: 430px;
+	margin-top: -620px;
+	border-radius: 20px;
+	box-shadow: 5px 5px 0px 0px #00000070;
+	background-color: white;
+}
+
+.wrapper{
+	background-color: #183c64;
+	width: 1367px;
+	height: 695px;
+	margin-top: -26px;
+	margin-left: -9px;
+}  
+
+.login h1{
+	margin-top: 50px;
+	text-align: center;
+	color: #183c64;
+	font-family: "League Spartan";
+}  
+
+.login label{
+	font-size: 20px;
+	margin-top: 100px;
+	margin-left: 30px;
+	color: #183c64;
+	font-family: Quicksand;
+}
+
+.email_login{
+	margin-top: 20px;
+	margin-left: 30px;
+	width: 430px;
+	height: 50px;
+	border-radius: 1em;
+	background-color: whitesmoke;
+}
+
+.password_login{
+	margin-top: 20px;
+	margin-left: 30px;
+	width: 430px;
+	height: 50px;
+	border-radius: 1em;
+	background-color: whitesmoke;
+}
+
+.button{
+	position: absolute; 
+	bottom: 150pt;
+	right: 345pt; 		
+	width: 90pt;
+	height: 40pt;
+	font-size: 18px; 
+	font-family: Quicksand; 
+	background-color: #183c64; 
+	color: white;
+	border-radius: 10px;
+	}
+.button p{
+	margin-top: 15px;
+	margin-left: 27.5px;
+}
+
+.login a{
+	font-family: Quicksand;
+	font-size: 12px;
+	margin-left: 30px;
+}
+
+#invalid{
+	font-family: Quicksand;
+	font-size: 12px;
+	margin-left: 30px;
+	color: red;
+}

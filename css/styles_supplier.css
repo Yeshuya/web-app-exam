@@ -1,0 +1,109 @@
+h1{
+	font-family: "Quicksand";
+	text-align: center;
+	color: #183c64;
+}
+
+h2{
+	font-family: "Quicksand";
+	text-align: center;
+	color: #183c64;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+table a{
+	text-decoration: none;
+}
+
+#input{
+  padding-left: 15px;
+  width: 300px;
+  height: 35px;
+  border-radius: 1em;
+  background-color: whitesmoke;
+  font-size: 14px;
+  font-family: Quicksand;
+}
+
+#labeladd{
+  margin-left: 285px;
+  font-size: 18px;
+  font-family: Quicksand;
+}
+
+#textbox{
+  margin-left: 285px;
+}
+
+.submit1{
+  margin-left: 0px;
+  width: 100px;
+  height: 50px;
+  border-radius: 1em;
+  background-color: whitesmoke;
+  font-size: 18px;
+  font-family: Quicksand;
+}
+
+.update{
+  position: absolute; 
+  bottom: -10pt;
+  right: 358pt; 
+  width: 400px;
+  height: 40pt;
+  font-size: 20px; 
+  font-family: Quicksand; 
+  background-color: #183c64; 
+  color: white;
+  border-radius: 1em;
+}
+
+.delete{
+  margin-left: 290px;
+  padding-left: 15px;
+  width: 300px;
+  height: 50px;
+  border-radius: 1em;
+  background-color: whitesmoke;
+  font-size: 18px;
+  font-family: Quicksand;
+}
+
+.confirm {
+  position: absolute; 
+  bottom: -65pt;
+  right: 300pt; 
+  width: 100px;
+  height: 35px;
+  font-size: 15px; 
+  font-family: Quicksand; 
+  background-color: #183c64; 
+  color: white;
+  border-radius: 1em;
+  margin-bottom: 50px;
+}
+
+.confirm2 {
+  position: absolute; 
+  bottom: 70pt;
+  right: 300pt; 
+  width: 100px;
+  height: 35px;
+  font-size: 15px; 
+  font-family: Quicksand; 
+  background-color: #183c64; 
+  color: white;
+  border-radius: 1em;
+  margin-bottom: 50px;
+}
+
+

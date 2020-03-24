@@ -1,0 +1,157 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0;
+}
+
+/* Fonts to be used */
+@font-face{
+  font-family: "League Spartan";
+  src: url(../fonts/LeagueSpartan-Bold.otf);
+}
+
+@font-face{
+  font-family: "Quicksand";
+  src: url(.../fonts/Quicksand-Regular.otf);
+}
+
+/* Header */
+.header {
+  height: 150px;
+  width: 1300px;
+  padding-top: 0;
+  margin: 0;
+}
+
+img {
+  width: 1349.3px;
+  height: 150px;
+}
+/* End of header */
+
+/* Containers */
+.topnav_container{
+  width: 1349.3px;
+}
+
+.content{
+  width: 300px;
+  min-height: 560px;
+  margin: 0;
+}
+
+/* End of Containers */
+
+/* Navigation Bar*/
+.topnav {
+  overflow: hidden;
+  background-color: #183c64;
+  width:  1349.3px;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  width: 237.8px;
+  font-family: "Quicksand";
+}
+
+.topnav a:hover {
+  background-color: white;
+  color: #183c64;
+}
+
+.active {
+  background-color: #eb2227;
+  color: white;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+.log-in{
+  float: right;
+  text-decoration: none;
+  color: #183c64;
+  font-family: Quicksand;
+  font-size: 17px;
+  margin-top: -33px;
+  margin-right: 10px;
+}
+/* End sang navigation Bar Trial */
+
+/* The dropdown container */
+.dropdown {
+  float: left;
+  overflow: hidden;
+  width: 100px;
+  font-family: "Quicksand";
+}
+
+/* Dropdown button */
+.dropdown .dropbtn {
+  width: 100px;
+  font-size: 16px;
+  font-family: "Quicksand";
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit; /* Important for vertical align on mobile phones */
+  margin: 0; /* Important for vertical align on mobile phones */
+}
+
+
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+  font-family: "Quicksand";
+}
+
+/* Add a grey background color to dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* Start Footer */
+.footer{
+    font-family: Quicksand;
+    padding: 5px;
+    background-color: #183c64;
+    width: 1339.45px;
+}
+
+.footer a{
+  color: white;
+}
+
+.footer p{
+  color: white;
+}
+/* End Footer */

@@ -1,0 +1,117 @@
+h1{
+	font-family: "Quicksand";
+	text-align: center;
+	color: #183c64;
+}
+
+.img{
+  width: 20px;
+  height: 20px;
+}
+
+h2{
+	font-family: "Quicksand";
+	text-align: center;
+	color: #183c64;
+}
+
+table {
+  font-family: "Quicksand";
+  border-collapse: collapse;
+  width: 400px;
+  margin-left: 24px;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+table a{
+	text-decoration: none;
+}
+
+.customer1{
+  border-right: 1px solid black; 
+  margin-top: -38px; 
+  padding-top: 20px;
+  width: 450px;
+  min-height: 540px;
+  float: left;
+  position: absolute;
+}
+
+.customer2{
+  margin-top: -38px; 
+  margin-left: 451px; 
+  padding-top: 20px;
+  width: 897px;
+  min-height: 540px;
+  float: left;
+}
+
+
+.search{
+  margin-left: 24px;
+  width: 235px;
+  height: 30px;
+  border-radius: 1em;
+  background-color: whitesmoke;
+  font-size: 18px;
+  font-family: Quicksand;
+}
+
+.submit{
+  margin-left: 0px;
+  width: 100px;
+  height: 35px;
+  border-radius: 1em;
+  background-color: whitesmoke;
+  font-size: 16px;
+  font-family: Quicksand;
+}
+
+.update{
+  position: absolute; 
+  bottom: -100pt;
+  right: 358pt; 
+  width: 400px;
+  height: 40pt;
+  font-size: 20px; 
+  font-family: Quicksand; 
+  background-color: #183c64; 
+  color: white;
+  border-radius: 1em;
+}
+
+.delete{
+  margin-left: 465px;
+  padding-left: 15px;
+  width: 400px;
+  height: 50px;
+  border-radius: 1em;
+  background-color: whitesmoke;
+  font-size: 18px;
+  font-family: Quicksand;
+}
+
+.confirm {
+  position: absolute; 
+  bottom: -330pt;
+  right: 355pt; 
+  width: 406px;
+  height: 40pt;
+  font-size: 20px; 
+  font-family: Quicksand; 
+  background-color: #183c64; 
+  color: white;
+  border-radius: 1em;
+  margin-bottom: 50px;
+}
+
+
