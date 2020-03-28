@@ -21,7 +21,7 @@ include 'dbconnect.php';
 			}
 			else
 			{
-				header("location: login.php?Invalid= Please Enter Correct User Name and Password");
+				header("location: login.php?Invalid= Username or Password entered does not matched the records");
 			}
 		}
 	} 
