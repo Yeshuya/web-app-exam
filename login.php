@@ -20,12 +20,12 @@
 			<?php
 				if(@$_GET['Empty']==true)
 				{
-					echo "<style="margin-left: 100px; margin-top: 10px;">"$_GET['Empty'];"</style>"
+					echo $_GET['Empty'];
 				}
 
 				else if(@$_GET['Invalid']==true)
 				{
-					echo "<style="margin-left: 100px; margin-top: 10px;">"$_GET['Invalid'];"</style>"
+					echo $_GET['Invalid'];
 				}
 			?>
 			</br>
