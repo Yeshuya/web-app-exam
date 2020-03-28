@@ -50,7 +50,7 @@ if(isset($_SESSION['User']))
 			?>	
 		</div>	
 		<div class="footer">
-			 <p><center style="font-size: 20 px; margin-top: 5px; color: white"><a href="https://drive.google.com/file/d/1RjhRi8Nrz9kWE077ENEbAhuzmR-ellQA/view?usp=sharing"> HOW TO USE THE SYSTEM </a></center></p>
+			 <p><center style="font-size: 20 px; margin-top: 5px; color: white"><a href="https://drive.google.com/file/d/1RjhRi8Nrz9kWE077ENEbAhuzmR-ellQA/view?usp=sharing" target="_blank"> HOW TO USE THE SYSTEM </a></center></p>
             		<p><center style="font-size: 20 px; margin-top: 5px; color: white">Members: </center></p>
             		<center style="color: white">| Panganiban | Tan | Vaflor | BSIT2-A | </center></p>
         	</div>	
